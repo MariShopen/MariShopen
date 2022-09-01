@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently studying at a boot camp and looking for a place where I can be useful and express myself.
 
-- 📫 How to reach me marinashopina95@gmail.com
-
 - ⚡ Fun fact, I love taking pictures and making videos
 
 <h3 align="left">Connect with me:</h3>
