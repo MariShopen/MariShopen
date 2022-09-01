@@ -10,8 +10,9 @@
 - ⚡ Fun fact, I love taking pictures and making videos
 
 <h3 align="left">Connect with me:</h3>
+<p align="center">
 <a href="https://t.me/mari_shopen" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="mari_shopen" height="30" width="30" /></a>
-<p align="left">
+<a href="https://www.linkedin.com/in/marina-shopina/" target="blank"><img align="center" src="https://i.pinimg.com/736x/dd/2c/80/dd2c809c09ed7a8d45507de3d291209f.jpg" alt="marina-shopina" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
