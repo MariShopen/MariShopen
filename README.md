@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Full Stack developer</h3>
 
+- 🔭 I’m currently **studying at a boot camp and looking for a place where I can be useful and express myself.**
+
 - 📫 How to reach me **marinashopina95@gmail.com**
 
 - ⚡ Fun fact, **I love taking pictures and making videos**
