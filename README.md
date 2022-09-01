@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🔭 I’m currently **studying at a boot camp and looking for a place where I can be useful and express myself.**
+<h3 align="left">About me:</h3>
 
-- 📫 How to reach me **marinashopina95@gmail.com**
+- 🔭 I’m currently studying at a boot camp and looking for a place where I can be useful and express myself.
 
-- ⚡ Fun fact, **I love taking pictures and making videos**
+- 📫 How to reach me marinashopina95@gmail.com
+
+- ⚡ Fun fact, I love taking pictures and making videos
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://t.me/mari_shopen" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" alt="mari_shopen" height="30" width="30" /></a>
 <p align="left">
 </p>
 
