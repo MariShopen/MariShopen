@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <h3 align="left">About me:</h3>
 
